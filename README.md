@@ -3,7 +3,7 @@ Linux is a popular operating system for cloud computing due to its flexibility, 
 
 In the context of cloud engineering, Linux can be used for a variety of tasks, such as:
 
-* Setting up and managing cloud infrastructure: Linux can be used to set up and configure cloud infrastructure, such as VMs, load balancers, and storage.
+* **Setting up and managing cloud infrastructure** : Linux can be used to set up and configure cloud infrastructure, such as VMs, load balancers, and storage.
 
 * Deploying and managing applications: Linux can be used to deploy and manage applications in the cloud, such as web servers, database servers, and microservices.
 
