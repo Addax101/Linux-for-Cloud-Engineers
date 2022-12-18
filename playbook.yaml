@@ -1,0 +1,28 @@
+# With the basic configuration in place, you can now create ansible playbooks to automate tasks on your cloud instances. A playbook is a YAML file that specifies the tasks to run and the order in which they should be run. Here is an example playbook that sets up a development environment on a cloud instance:
+
+---
+- name: Set up development environment
+  hosts: cloud_instances
+  become: true
+  tasks:
+    - name: Install required packages
+      apt:
+        name:
+          - git
+          - python3-pip
+          - python3-venv
+      update_cache: true
+
+    - name: Create virtual environment
+      python_venv:
+        path: /path/to/venv
+        system_site_packages: false
+
+    - name: Install requirements
+      pip:
+        requirements: /path/to/requirements.txt
+        virtualenv: /path/to/venv
+
+
+
+# To run this playbook, you can use the ansible-playbook command and specify the path to the playbook file i.e ansible-playbook playbooks/setup_dev_env.yml
