@@ -30,5 +30,5 @@ In the context of cloud engineering, Linux can be used for a variety of tasks, s
 
 * Cost optimization: Cloud resources come with a cost, and it's important to optimize your usage to minimize expenses. Linux provides tools and resources for monitoring and optimizing resource usage to ensure that you are getting the most value for your money.
 
-#### Most importantly follow me on (medium)[https://medium.com/@byansianthony4?source=---two_column_layout_sidebar----------------------------------] for more
+#### Most importantly follow me on [medium](https://medium.com/@byansianthony4?source=---two_column_layout_sidebar----------------------------------) for more
 
