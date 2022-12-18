@@ -29,3 +29,6 @@ In the context of cloud engineering, Linux can be used for a variety of tasks, s
 * High availability: Cloud systems and applications should be designed to be highly available, meaning that they are always accessible and able to handle a high volume of requests. Linux provides a range of tools and resources for building highly available systems, such as load balancers and autoscaling.
 
 * Cost optimization: Cloud resources come with a cost, and it's important to optimize your usage to minimize expenses. Linux provides tools and resources for monitoring and optimizing resource usage to ensure that you are getting the most value for your money.
+
+#### Most importantly follow me on (medium)[https://medium.com/@byansianthony4?source=---two_column_layout_sidebar----------------------------------] for more
+
